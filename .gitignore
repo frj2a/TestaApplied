@@ -1,0 +1,8 @@
+.qmake.stash
+Makefile
+*.user
+*.user.*
+release/
+debug/
+GeneratedFiles/
+TestaApplied
