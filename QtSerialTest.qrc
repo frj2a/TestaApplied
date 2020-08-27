@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/icones">
+        <file alias="1">recursos/lamp_acesa.png</file>
+        <file alias="0">recursos/lamp_apagada.png</file>
+        <file alias="VD">recursos/lamp_acesa_VD.png</file>
+        <file alias="VM">recursos/lamp_acesa_VM.png</file>
+        <file alias="icone">recursos/Chip1.ico</file>
+    </qresource>
+    <qresource prefix="/botoes">
+        <file alias="moveDireitaContinuo">recursos/moveDireitaDevagar.svg</file>
+        <file alias="movdEsquerdaContinuo">recursos/moveEsquerdaDevagar.svg</file>
+        <file alias="moveDireitaLimite">recursos/moveDireitaLimite.svg</file>
+        <file alias="moveEsquerdaLimite">recursos/moveEsquerdaLimite.svg</file>
+    </qresource>
+    <qresource prefix="/fontes">
+	<file alias="Digir___.ttf">recursos/fontes/Digir___.ttf</file>
+	<file alias="Digirc__.ttf">recursos/fontes/Digirc__.ttf</file>
+	<file alias="Digircu_.ttf">recursos/fontes/Digircu_.ttf</file>
+	<file alias="Digire__.ttf">recursos/fontes/Digire__.ttf</file>
+	<file alias="Digireu_.ttf">recursos/fontes/Digireu_.ttf</file>
+	<file alias="Digirtu_.ttf">recursos/fontes/Digirtu_.ttf</file>
+	<file alias="LEDBDREV.TTF">recursos/fontes/LEDBDREV.TTF</file>
+	<file alias="LEDBOARD.TTF">recursos/fontes/LEDBOARD.TTF</file>
+    </qresource>
+</RCC>
